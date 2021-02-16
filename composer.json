@@ -9,7 +9,7 @@
             "homepage": "author homepage"
         }
     ],
-    "homepage": "https://github.com/jkl/elements",
+    "homepage": "https://github.com/mrjkvcs/elements",
     "keywords": ["Laravel", "Elements"],
     "require": {
         "illuminate/support": "~7|~8"
